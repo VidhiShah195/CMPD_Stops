@@ -4,6 +4,7 @@ import streamlit as st
 import pandas as pd
 
 st.write('CMPD Traffic Stops')
+st.write('practice for class')
 
 
 @st.cache_data
